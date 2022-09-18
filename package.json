@@ -1,0 +1,23 @@
+{
+  "name": "intro-section-with-dropdown-navigation-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayjess/intro-section-with-dropdown-navigation-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayjess/intro-section-with-dropdown-navigation-main/issues"
+  },
+  "homepage": "https://github.com/sayjess/intro-section-with-dropdown-navigation-main#readme",
+  "dependencies": {
+    "react-dropdown-select": "^4.9.0",
+    "tachyons": "^4.12.0"
+  }
+}
